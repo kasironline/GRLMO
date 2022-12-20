@@ -3,7 +3,7 @@
 	"description": "Built grand limousine website with new modern technology web development, fast and full of SEO power.",
 	"info": "Static Site Generator,Single Page App, Progresive Web App, Flatfile CMS, Mobile Web All in one.",
 	"test": "Test Website Peform",
-	"testlink": "/gallery",
+	"testlink": "https://googlechrome.github.io/lighthouse/viewer/?psiurl=https%3A%2F%2Fgrandlimo.vercel.app%2F&strategy=mobile&category=performance&category=accessibility&category=best-practices&category=seo&category=pwa&utm_source=lh-chrome-ext",
 	"concept": "Concept and Scheme",
 	"design": "Design and Structure",
 	"information": "Our development team will always follow developments regarding how the theme structure is used in its implementation, following Google's rules for SEO needs, and also a design that is not excessive so that site performance is maintained, for speed and stability.",
