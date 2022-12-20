@@ -1,3 +1,3 @@
-# GRLMO
+# grlmo
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/sveltejs-kit-template-default-vqaagb)
+[https://www.fiverr.com/creativitas/create-your-custom-website-and-app](https://www.fiverr.com/creativitas/create-your-custom-website-and-app)
