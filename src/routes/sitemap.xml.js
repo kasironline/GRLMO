@@ -15,12 +15,12 @@ export async function GET() {
       >
 
     <url>
-  <loc>https://grandlimousine.pages.dev/</loc>
+  <loc>https://grandlimo.vercel.app</loc>
   <lastmod>2022-12-18T05:17:47+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-<loc>https://grandlimousine.pages.dev/gallery</loc>
+<loc>https://grandlimo.vercel.app/gallery</loc>
 <lastmod>2022-12-18T05:17:47+00:00</lastmod>
 <priority>0.64</priority>
 </url>
